@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">A1</string>
+    <string name="attractions">"Displays information about various attractions in Chicago, IL."</string>
+    <string name="restaurants">Displays restaurants within Chicago, IL.</string>
+    <string name="attraction_button">Attractions</string>
+    <string name="restaurants_button">Restaurants</string>
+</resources>
